@@ -13,7 +13,7 @@ identicon 根据一个字符串(可以是用户的ID或者IP)的哈希值生成�
 ## 安装
 
 ```shell
-$ composer require valiner/identicon-avatar -vvv
+$ composer require ufucms/identicon-avatar:'dev-master'
 ```
 
 ## 使用
