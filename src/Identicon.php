@@ -2,8 +2,6 @@
 
 namespace Valiner\IdenticonAvatar;
 
-require __DIR__.'/../vendor/autoload.php';
-
 use Valiner\IdenticonAvatar\Matrix\Matrix;
 use Valiner\IdenticonAvatar\Generator\Generator;
 
